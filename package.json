@@ -1,0 +1,25 @@
+{
+  "name": "store-in-fs",
+  "version": "1.0.0",
+  "description": "Stores data in local file system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hingsir/store-in-fs.git"
+  },
+  "keywords": [
+    "store",
+    "localstorage",
+    "fs",
+    "cache"
+  ],
+  "author": "hingsir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hingsir/store-in-fs/issues"
+  },
+  "homepage": "https://github.com/hingsir/store-in-fs#readme"
+}
